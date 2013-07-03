@@ -2,7 +2,9 @@ Montana Breweries
 ================
 
 List of Breweries for Big Sky Country
+
 ----------
+
 According to the Montana Code Annotated 2009, section 16-1-106 Definitions:
   
 > (5) (a) "Beer" means:

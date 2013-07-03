@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bayern Brewery Inc.",
+                "Url": "http://www.bayernbrewery.com/",
+                "Opened": 1987,
+                "Country": "US",
+                "Zip": 59801,
+                "State": "Mt",
+                "City": "Missoula"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.020046,
+                    46.872604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kettle House Brewing Company",
+                "Url": "http://kettlehouse.com/",
+                "Opened": 1991,
+                "Country": "US",
+                "Zip": 59801,
+                "State": "Mt",
+                "City": "Missoula"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.998829,
+                    46.865539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Big Sky Brewing Co.",
+                "Url": "http://www.bigskybrew.com/",
+                "Opened": 1995,
+                "Country": "US",
+                "Zip": 59808,
+                "State": "Mt",
+                "City": "Missoula"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.072504,
+                    46.92208
+                ]
+            }
+        }
+    ]
+}
