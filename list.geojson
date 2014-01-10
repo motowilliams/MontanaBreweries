@@ -95,6 +95,25 @@
                     46.877901
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bitter Root Brewing",
+                "Url": "http://www.bitterrootbrewing.com/",
+                "Opened": 2009,
+                "Country": "US",
+                "Zip": 59840,
+                "State": "Mt",
+                "City": "Hamilton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.153926,
+                    46.247757
+                ]
+            }
         }
     ]
 }
