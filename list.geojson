@@ -76,6 +76,25 @@
                     46.766007
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Draught Works",
+                "Url": "http://www.draughtworksbrewery.com/",
+                "Opened": 2011,
+                "Country": "US",
+                "Zip": 59802,
+                "State": "Mt",
+                "City": "Missoula"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.00358,
+                    46.877901
+                ]
+            }
         }
     ]
 }
