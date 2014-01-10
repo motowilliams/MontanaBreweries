@@ -57,6 +57,25 @@
                     46.92208
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lolo Peak Brewing Company",
+                "Url": "http://lolopeakbrewery.com/",
+                "Opened": 2014,
+                "Country": "US",
+                "Zip": 59847,
+                "State": "Mt",
+                "City": "Lolo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.082850,
+                    46.766007
+                ]
+            }
         }
     ]
 }
