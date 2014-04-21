@@ -114,6 +114,25 @@
                     46.247757
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kalispell Brewing Company",
+                "Url": "http://www.kalispellbrewing.com//",
+                "Opened": 2012,
+                "Country": "US",
+                "Zip": 59901,
+                "State": "Mt",
+                "City": "Kalispell"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.153926,
+                    46.247757
+                ]
+            }
         }
     ]
 }
