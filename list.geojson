@@ -133,6 +133,25 @@
                     48.1944623
                 ]
             }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "Name": "Blackfoot River Brewing Co",
+                "Url": "http://www.blackfootriverbrewing.com//",
+                "Opened": 1993,
+                "Country": "US",
+                "Zip": 59601,
+                "State": "Mt",
+                "City": "Helena"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.042,
+                    46.586
+                ]
+            }
         }
     ]
 }
