@@ -134,7 +134,7 @@
                 ]
             }
         },
-		{
+	{
             "type": "Feature",
             "properties": {
                 "Name": "Blackfoot River Brewing Co",
@@ -150,6 +150,25 @@
                 "coordinates": [
                     -112.042,
                     46.586
+                ]
+            }
+        },
+	{
+            "type": "Feature",
+            "properties": {
+                "Name": "Flathead Lake Brewing Company",
+                "Url": "http://flatheadlakebrewing.com/",
+                "Opened": 2004,
+                "Country": "US",
+                "Zip": 59911,
+                "State": "Mt",
+                "City": "Big Fork"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0457586,
+                    47.9979957
                 ]
             }
         }
