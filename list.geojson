@@ -119,7 +119,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Kalispell Brewing Company",
-                "Url": "http://www.kalispellbrewing.com//",
+                "Url": "http://www.kalispellbrewing.com/",
                 "Opened": 2012,
                 "Country": "US",
                 "Zip": 59901,
@@ -138,7 +138,7 @@
             "type": "Feature",
             "properties": {
                 "Name": "Blackfoot River Brewing Co",
-                "Url": "http://www.blackfootriverbrewing.com//",
+                "Url": "http://www.blackfootriverbrewing.com/",
                 "Opened": 1993,
                 "Country": "US",
                 "Zip": 59601,
