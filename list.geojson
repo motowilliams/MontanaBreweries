@@ -190,6 +190,25 @@
                     45.2159599
                 ]
             }
+        },
+	{
+            "type": "Feature",
+            "properties": {
+                "Name": "Bozeman Brewing Company",
+                "Url": "http://bozemanbrewing.com/",
+                "Opened": 2001,
+                "Country": "US",
+                "Zip": 59725,
+                "State": "Mt",
+                "City": "Bozeman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0237397,
+                    45.6846013
+                ]
+            }
         }
     ]
 }
