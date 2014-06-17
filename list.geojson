@@ -171,6 +171,25 @@
                     47.9979957
                 ]
             }
+        },
+	{
+            "type": "Feature",
+            "properties": {
+                "Name": "Beaverhead Brewing Company",
+                "Url": "http://beaverheadbeer.com/",
+                "Opened": 2014,
+                "Country": "US",
+                "Zip": 59725,
+                "State": "Mt",
+                "City": "Dillon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.6394679,
+                    45.2159599,
+                ]
+            }
         }
     ]
 }
